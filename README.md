@@ -7,4 +7,6 @@ The webfonts is downloadable from the Kende.zip file.
 Ez a repo a kende-font/kende-font jogutódja.
 A betűkészlet igazodik az Unicode Rovásírás szabványhoz.
 
+Under the development the font's ligatures.
 
+A ligatúrák még fejlesztés állnak.
