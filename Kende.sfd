@@ -3974,7 +3974,7 @@ SplineSet
  544 444 l 5,11,12
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures in Old Hungarian lookup 0-1" u10CD3 uni200D u10CEA
+Ligature2: "'liga' Standard Ligatures in Old Hungarian lookup 0-1" u10CD2 uni200D u10CEA
 EndChar
 
 StartChar: Qsemi
